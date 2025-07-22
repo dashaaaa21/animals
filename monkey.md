@@ -11,8 +11,10 @@
 ## Examples
 *Lampreys and sharks share some features, like a nervous system, that are not synapomorphic because they are also shared by invertebrates. In contrast, the presence of jaws and paired appendages in both sharks and dogs, but not in lampreys or close invertebrate relatives, identifies these traits as synapomorphies. This supports the hypothesis that dogs and sharks are more closely related to each other than to lampreys.*
 
-![Logo](https://images.unsplash.com/photo-1557447928-9a1ca5819ed6?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-![Logo](https://images.unsplash.com/photo-1676635810449-dc223a969fae?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<div style ="display: flex; justify-content:center; gap:15px;">
+<img src="https://images.unsplash.com/photo-1557447928-9a1ca5819ed6?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200" >
+<img src="https://images.unsplash.com/photo-1676635810449-dc223a969fae?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200" >
+<img src="https://images.unsplash.com/photo-1552195543-fabef2118f70?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200" >
+</div>
 
-![Logo](https://images.unsplash.com/photo-1552195543-fabef2118f70?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
